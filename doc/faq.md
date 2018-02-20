@@ -28,7 +28,7 @@ one program (`sit-web`) and use it through a browser. No extra steps
 required.
 
 If your workflow involves an SCM (such as Git), the setup will be
-more involved (at least for now). They'd have to be tought to use
+more involved (at least for now). They'd have to be taught to use
 some GUI client for the SCM of your choice.
 
 ## Is there a way to host a shared public/private instance of sit-web?
